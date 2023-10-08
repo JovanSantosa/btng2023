@@ -1,0 +1,48 @@
+h1{
+    font-size: 40px;
+    color: #2E4374;
+}
+
+.sub-judul{
+    font-size: 20px;
+    color: #7C81AD;
+}
+
+.content{
+    font-style: italic;
+    color: green;
+    border: 10px solid rebeccapurple;
+    padding: 10px;
+}
+
+#satu{
+    font-size: 50px;
+}
+
+.textp p{
+    font-size: 40px;
+    text-shadow: 3px 5px 6px violet;
+}
+
+.p1,.p3{
+    color: #2E4374;
+}
+
+.p2:hover{
+    color: red;
+}
+.p2:active{
+    color:aqua;
+}
+
+
+hr{
+    background-color: red;
+    border: #2E4374;
+    height: 10px;
+}
+
+.box{
+    border: 10px solid red;
+    padding: 20px;
+}
